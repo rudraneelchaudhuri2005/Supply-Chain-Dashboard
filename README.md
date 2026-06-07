@@ -1,4 +1,3 @@
-# Supply-Chain-Dashboard
 # Supply Chain Dashboard built using Microsoft Power BI
 
 Dataset is obtained from Kaggle - DataCo supply chain dataset 
